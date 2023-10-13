@@ -1,0 +1,1 @@
+/Users/swinirodrigues/crypto_assignment_2/merkle/target/debug/merkle: /Users/swinirodrigues/crypto_assignment_2/merkle/src/main.rs /Users/swinirodrigues/crypto_assignment_2/merkle/src/prover.rs /Users/swinirodrigues/crypto_assignment_2/merkle/src/util.rs /Users/swinirodrigues/crypto_assignment_2/merkle/src/verifier.rs
